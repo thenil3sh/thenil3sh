@@ -117,6 +117,18 @@ Hi, you've visited thenil3sh's profile page
     title="Git">
 </picture>
 
+<picture>
+    <source
+    srcset="./assets/light-theme/android.png"
+    media="(prefers-color-scheme: light)"/>
+  <source
+    srcset="./assets/dark-theme/android.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/android.png" 
+    height="50px"
+    title="Android">
+</picture>
+
 ## Proof I do stuff
 <picture>
   <source
