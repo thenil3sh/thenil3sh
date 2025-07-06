@@ -12,8 +12,11 @@ Hi, you've visited thenil3sh's profile page
   <source
     srcset="https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=3d454cff&text_color=ffffff&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true"
     media="(prefers-color-scheme: dark)"/>
+  <img src="https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=d0d9e1&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true&icon_color=0869db"> 
+</picture>
+<picture>
   <source
-    srcset="https://github-readme-stats-one-rho-93.vercel.app/api/top-langs?username=thenil3sh&layout=compact&hide_title=true&bg_color=00000000&border_radius=6.5&text_bold=false&border_color=3d454cff"
-    media="(prefers-color-scheme: dark)"/>
+    srcset="https://github-readme-stats-one-rho-93.vercel.app/api/top-langs?username=thenil3sh&hide_title=true&bg_color=00000000&border_radius=6.5&text_bold=false&border_color=3d454cff"/>
+  
 </picture>
 ![My Github Stats](https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=3d454cff&text_color=ffffff&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false) ![My Github Stats (again)](https://github-readme-stats-one-rho-93.vercel.app/api/top-langs?username=thenil3sh&layout=compact&hide_title=true&bg_color=00000000&border_radius=6.5&text_bold=false&border_color=3d454cff)
