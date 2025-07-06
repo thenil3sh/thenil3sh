@@ -12,49 +12,109 @@ Hi, you've visited thenil3sh's profile page
   <source
     srcset="./assets/light-theme/arch.png"
     media="(prefers-color-scheme: light)"/>
-  <img src="./assets/light-theme/arch.png"/ height="50px">
+  <source
+    srcset="./assets/dark-theme/arch.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/arch.png" 
+    height="50px"
+    title="Arch">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/zed.png"
+    media="(prefers-color-scheme: light)"/>
+  <source
+    srcset="./assets/dark-theme/zed.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/zed.png" 
+    height="50px"
+    title="Zed"/>
 </picture>
 
 <picture>
   <source
     srcset="./assets/light-theme/bash.png"
     media="(prefers-color-scheme: light)"/>
-  <img src="./assets/light-theme/bash.png"/ height="50px">
+  <source
+    srcset="./assets/dark-theme/bash.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/bash.png" 
+    height="50px"
+    title="Bash">
 </picture>
 
 <picture>
   <source
     srcset="./assets/light-theme/rust.png"
     media="(prefers-color-scheme: light)"/>
-  <img src="./assets/light-theme/rust.png"/ height="50px">
+  <source
+    srcset="./assets/dark-theme/rust.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/rust.png" 
+    height="50px"
+    title = "Rust"/>
 </picture>
 
 <picture>
   <source
     srcset="./assets/light-theme/slint.png"
     media="(prefers-color-scheme: light)"/>
-  <img src="./assets/light-theme/slint.png"/ height="50px">
+  <source
+    srcset="./assets/dark-theme/slint.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/slint.png"
+    height="50px"
+    title ="Slint"/>
 </picture>
 
 <picture>
   <source
     srcset="./assets/light-theme/leptos.png"
     media="(prefers-color-scheme: light)"/>
-  <img src="./assets/light-theme/leptos.png"/ height="50px">
+  <source
+    srcset="./assets/dark-theme/leptos.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/leptos.png"
+    height="50px"
+    title="Leptos"/>
+</picture>
+
+
+<picture>
+  <source
+    srcset="./assets/light-theme/cpp.png"
+    media="(prefers-color-scheme: light)"/>
+  <source
+    srcset="./assets/dark-theme/cpp.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/cpp.png"
+    height="50px"
+    title="C++"/>
 </picture>
 
 <picture>
   <source
     srcset="./assets/light-theme/kotlin.png"
     media="(prefers-color-scheme: light)"/>
-  <img src="./assets/light-theme/kotlin.png"/ height="50px">
+  <source
+    srcset="./assets/dark-theme/kotlin.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/kotlin.png"
+    height="50px"
+    title="Kotlin"/>
 </picture>
 
 <picture>
   <source
     srcset="./assets/light-theme/git.png"
+    media="(prefers-color-scheme: light)"/>
+  <source
+    srcset="./assets/dark-theme/git.png"
     media="(prefers-color-scheme: dark)"/>
-  <img src="./assets/light-theme/git.png"/ height="50px">
+  <img src="./assets/light-theme/git.png" 
+    height="50px"
+    title="Git">
 </picture>
 
 ## Proof I do stuff
