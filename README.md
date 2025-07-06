@@ -27,3 +27,51 @@ Hi, you've visited thenil3sh's profile page
   <img alt="My Top Langs" src="https://github-readme-stats-one-rho-93.vercel.app/api/top-langs?username=thenil3sh&hide_title=true&bg_color=00000000&border_radius=6.5&text_bold=false&border_color=3d454cff">
   
 </picture>
+<picture>
+  <source
+    srcset="./assets/light-theme/arch.png"
+    media="(prefers-color-scheme: light)"/>
+  <img src="./assets/light-theme/arch.png"/ height="50px">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/bash.png"
+    media="(prefers-color-scheme: light)"/>
+  <img src="./assets/light-theme/bash.png"/ height="50px">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/rust.png"
+    media="(prefers-color-scheme: light)"/>
+  <img src="./assets/light-theme/rust.png"/ height="50px">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/slint.png"
+    media="(prefers-color-scheme: light)"/>
+  <img src="./assets/light-theme/slint.png"/ height="50px">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/leptos.png"
+    media="(prefers-color-scheme: light)"/>
+  <img src="./assets/light-theme/leptos.png"/ height="50px">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/kotlin.png"
+    media="(prefers-color-scheme: light)"/>
+  <img src="./assets/light-theme/kotlin.png"/ height="50px">
+</picture>
+
+<picture>
+  <source
+    srcset="./assets/light-theme/git.png"
+    media="(prefers-color-scheme: dark)"/>
+  <img src="./assets/light-theme/git.png"/ height="50px">
+</picture>
