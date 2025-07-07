@@ -139,6 +139,8 @@ Hi, you've visited thenil3sh's profile page
     media="(perfers-color-scheme: light)"/>
   <img alt="My Github Stats" src="https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=d0d9e1&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true&icon_color=0869db&icons_color=0869db&show=prs_merged">
 </picture>
+
+<!-- 
 &nbsp;
 <picture>
   <source
@@ -149,4 +151,5 @@ Hi, you've visited thenil3sh's profile page
     media="(prefers-color-scheme: light)"/>
   <img alt="My Top Langs" src="https://github-readme-stats-one-rho-93.vercel.app/api/top-langs?username=thenil3sh&hide_title=true&bg_color=00000000&border_radius=6.5&text_bold=false&border_color=3d454cff">
 
-</picture>
+</picture> 
+-->
