@@ -3,7 +3,7 @@ Hi, you've visited thenil3sh's profile page
 ## About Me
 - I'm lazy
 - Right now, I'm rooting into Android Dev with Kotlin (garbage collection, aww yes!!). Soon, on this profile, you'll notice some projects around it (and maybe don't).
-- I love, solving my own problems, lol. Soon as I face it, appears a new project.
+- I love, solving my own problems, lol. Soon as I face it, appears a new project. (Sadly, most of them are private)
 - Working on webassembly is also something I enjoy (just to avoid writing another line of javascript).
 
 
