@@ -144,12 +144,12 @@ Hi, you've visited thenil3sh's profile page
 ## Proof I do stuff
 <picture>
   <source
-    srcset="https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=0e141c&border_color=3d454cff&text_color=ffffff&border_radius=6.5&custom_title=.%20.%20.%20um&text_bold=false&show_icons=true&show=prs_merged&title_color=ffffff&icon_color=ffffff"
+    srcset="https://github-readme-stats.vercel.app/api?username=thenil3sh&bg_color=0e141c&border_color=3d454cff&text_color=ffffff&border_radius=6.5&custom_title=.%20.%20.%20um&text_bold=false&show_icons=true&show=prs_merged&title_color=ffffff&icon_color=ffffff"
     media="(prefers-color-scheme: dark)"/>
   <source 
-    srcset="My Github Stats" src="https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=d0d9e1&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true&icon_color=0869db&icons_color=0869db&show=prs_merged"
+    srcset="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=d0d9e1&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true&icon_color=0869db&icons_color=0869db&show=prs_merged"
     media="(perfers-color-scheme: light)"/>
-  <img alt="My Github Stats" src="https://github-readme-stats-one-rho-93.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=d0d9e1&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true&icon_color=0869db&icons_color=0869db&show=prs_merged">
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenil3sh&bg_color=00000000&border_color=d0d9e1&border_radius=6.5&custom_title=.%20.%20.%20um&&text_bold=false&show_icons=true&icon_color=0869db&icons_color=0869db&show=prs_merged">
 </picture>
 
 <!-- 
