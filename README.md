@@ -147,9 +147,9 @@ Hi, you've visited thenil3sh's profile page
     srcset="https://streak-stats.demolab.com?user=thenil3sh&theme=github-dark&border_radius=20&short_numbers=true&card_width=500&stroke=3A404A&fire=F0F6FC&dates=EB545400&currStreakLabel=9198A1&ring=9198A1&sideLabels=9198A1&background=0D1117&border=3A404A"
     media="(prefers-color-scheme: dark)"/>
   <source 
-    srcset="https://streak-stats.demolab.com?user=thenil3sh&theme=github-dark-blue&border_radius=20&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&stroke=CCCFD6&fire=363638&dates=C6C9D2&currStreakLabel=363638&ring=808286&sideLabels=363638&border=CCCFD6&sideNums=363638&currStreakNum=363638&background=45%2CFBF8F4%2CF6F2F2"
+    srcset="https://streak-stats.demolab.com?user=thenil3sh&theme=github-dark-blue&border_radius=20&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&stroke=CCCFD6&fire=363638&dates=C6C9D2&currStreakLabel=363638&ring=808286&sideLabels=363638&border=CCCFD6&sideNums=363638&currStreakNum=363638&background=FAFAFA"
     media="(perfers-color-scheme: light)"/>
-  <img alt="readme stats" src="https://streak-stats.demolab.com?user=thenil3sh&theme=github-dark-blue&border_radius=20&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&stroke=CCCFD6&fire=363638&dates=C6C9D2&currStreakLabel=363638&ring=808286&sideLabels=363638&border=CCCFD6&sideNums=363638&currStreakNum=363638&background=45%2CFBF8F4%2CF6F2F2">
+  <img alt="readme stats" src="https://streak-stats.demolab.com?user=thenil3sh&theme=github-dark-blue&border_radius=20&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&stroke=CCCFD6&fire=363638&dates=C6C9D2&currStreakLabel=363638&ring=808286&sideLabels=363638&border=CCCFD6&sideNums=363638&currStreakNum=363638&background=FAFAFA">
 </picture>
 
 <!-- 
