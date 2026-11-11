@@ -17,6 +17,4 @@ building [kosh](https://github.com/kosh-project) — a self-hosted storage platf
 [status_watcher](https://github.com/thenil3sh/status_watcher) · Rust · watches process / service state so you don't have to stare at htop.
 
 [waybar-modules](https://github.com/thenil3sh/waybar-modules) · Rust · custom waybar modules for hyprland. stay out of the way.
-
-
 </samp>
