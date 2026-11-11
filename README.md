@@ -6,7 +6,7 @@ building [kosh](https://github.com/kosh-project) — a self-hosted storage platf
 
 ---
 
-**things i've built**
+**things i've built(not)**
 
 [qbit-tui](https://github.com/thenil3sh/qbit-tui) · Rust · bittorrent client from scratch. raw UDP tracker, peer handshake, piece management. archived. still proud of it.
 
@@ -18,10 +18,5 @@ building [kosh](https://github.com/kosh-project) — a self-hosted storage platf
 
 [waybar-modules](https://github.com/thenil3sh/waybar-modules) · Rust · custom waybar modules for hyprland. stay out of the way.
 
----
-
-mostly into Rust and Kotlin. sometimes C++. avoiding javascript wherever wasm reaches.
-
-[![streak](https://streak-stats.demolab.com?user=thenil3sh&theme=github-dark&border_radius=10&short_numbers=true&card_width=500&stroke=3A404A&fire=F0F6FC&dates=EB545400&currStreakLabel=9198A1&ring=9198A1&sideLabels=9198A1&background=0D1117&border=3A404A)](https://github.com/thenil3sh)
 
 </samp>
